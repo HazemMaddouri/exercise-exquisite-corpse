@@ -14,4 +14,6 @@ In hac habitasse platea dictumst.
 
 4eme et derniere modif de Eddy __enfin__
 
-Je termien moi !
+Je termine moi !
+
+The start is the beginning of the end.
