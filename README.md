@@ -1,4 +1,5 @@
 # exercise-exquisite-corpse-hazem
+# The point of this exercice is to show my usage of markdown.
 ## Hang Fire.
 An *oil lamp ***burning*** *at his home's doorway*.  
 It *can't* be* *seen* from **him**.  
