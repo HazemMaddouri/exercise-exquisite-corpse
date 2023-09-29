@@ -1,5 +1,5 @@
 # exercise-exquisite-corpse-hazem
-# The point of this exercice is to show my usage of markdown.
+# The point of this exercice is to show the usage of git as a small project with other people pushing and pulling.
 ## Hang Fire.
 An *oil lamp ***burning*** *at his home's doorway*.  
 It *can't* be* *seen* from **him**.  
